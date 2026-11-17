@@ -1,0 +1,12 @@
+{
+  "name": "codex-team",
+  "owner": { "name": "grosa787" },
+  "description": "Claude orchestrates OpenAI Codex agents",
+  "plugins": [
+    {
+      "name": "codex-team",
+      "source": "./",
+      "description": "Claude plans, delegates and verifies; OpenAI Codex (your ChatGPT subscription) implements. Mixed Claude and Codex agents in one Workflow, live model catalog, per-task model routing, token accounting."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "codex-team",
+  "version": "0.1.0",
+  "description": "OpenAI Codex (your local Codex CLI and ChatGPT subscription) as worker agents under Claude: Claude plans, delegates and verifies, Codex implements. Includes a ready Workflow.",
+  "author": {
+    "name": "grosa787"
+  },
+  "keywords": [
+    "codex",
+    "openai",
+    "orchestration",
+    "multi-agent",
+    "workflow"
+  ],
+  "license": "MIT"
+}
